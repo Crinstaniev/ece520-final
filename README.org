@@ -1,0 +1,8 @@
+* ECE520 Final Project: Quantum Feature Selection
+
+** Dataset
+The project uses MNIST dataset from =python-mnist=. Download the dataset following the guide [[https://pypi.org/project/python-mnist/]].
+
+** Notebooks
+- `data_preprocessing.ipynb`: Preprocess the data and save the data into `data/` folder.
+- `qubo.ipynb`: Solve the QUBO problem classical and quantum methods.
